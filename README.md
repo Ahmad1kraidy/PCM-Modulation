@@ -1,4 +1,4 @@
-# ahmad
+# PCM
 PCM (Pulse Code Modulation)
 
 This project contains a Simulink model that demonstrates the simulation of Pulse Code Modulation (PCM).
